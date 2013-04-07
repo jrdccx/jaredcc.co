@@ -12,6 +12,7 @@ Find me
 -------
 
 + I live in Bedstuy, Brooklyn
++ I use [cjdns](https://github.com/cjdelisle/cjdns) to access [Hyperboria](http://hyperboria.net), a distributed mesh network.
 + I use email, because it's distributed: [ev@evbogue.com](ev@evbogue.com)
-+ I use git, because it's distributed: [Github](http://github.com/evbogue) / [Gitboria](http://gitboria.com/ev)
-+ I use [cjdns](https://github.com/cjdelisle/cjdns) to access [Hyperboria](http://hyperboria.net), a distributed mesh network
++ I use git, because it's distributed: [Github](http://github.com/evbogue) (public) / [Gitboria](http://gitboria.com/ev) (cjdns only)
++ I use [socialno.de](http://socialno.de) (cjdns only)
