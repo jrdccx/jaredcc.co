@@ -1,5 +1,7 @@
-Stream
-=======
+evbogue.com
+============
+
+### Stream
 
 + April 9 2013 | Yo! Gwen Bell's [Git for Publishers](http://git.gwenbell.com/) is out now. Buy it!
 + April 7 2013 | New single-page site built on Bitters using [Express](http://expressjs.com/), [Jade](http://jade-lang.com/), [Stylus](http://learnboost.github.io/stylus/), and [Node.js](http://nodejs.org) magic
@@ -9,8 +11,7 @@ Stream
 + April 2 2013 | Working on a new project, called Deploy Node (in private, right now)
 + April 1 2013 | Moved to from Bushwick to Bed-stuy yesterday. Today, discovered [Dough](http://www.nycgo.com/venue/dough)
 
-Details
--------
+### Details
 
 + I live in Bedstuy, Brooklyn
 + I use [cjdns](https://github.com/cjdelisle/cjdns) to access [Hyperboria](http://hyperboria.net), a distributed mesh network.
@@ -19,3 +20,6 @@ Details
 + I use git, because it's distributed: [Github](http://github.com/evbogue) (public) / [Gitboria](http://gitboria.com/ev) (cjdns only)
 + I use [socialno.de](http://socialno.de) (cjdns only)
 
+### This site is
+
+Built using Bitters a simple-as-possible Git-based single-page website using [Express](http://expressjs.com/), [Jade](http://jade-lang.com/), [Stylus](http://learnboost.github.io/stylus/), and deployed using [Node.js](http://nodejs.org).
