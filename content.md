@@ -17,3 +17,6 @@ Details
 + I use git, because it's distributed: [Github](http://github.com/evbogue) (public) / [Gitboria](http://gitboria.com/ev) (cjdns only)
 + I use [socialno.de](http://socialno.de) (cjdns only)
 
+<!--
+<button style="background-color: #57b7d6; border-color: #60afc9; font-size: 1.2em; padding-left: .7em; padding-right: .7em; border-radius: 6px; font-weight: 400;">BUY NOW</button>-->
+
