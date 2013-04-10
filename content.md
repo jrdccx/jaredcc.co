@@ -1,6 +1,7 @@
 Stream
 =======
 
++ April 9 2013 | Yo! Gwen Bell's [Git for Publishers](http://git.gwenbell.com/) is out now. Buy it!
 + April 7 2013 | New single-page site built on Bitters using [Express](http://expressjs.com/), [Jade](http://jade-lang.com/), [Stylus](http://learnboost.github.io/stylus/), and [Node.js](http://nodejs.org) magic
 + April 6 2013 | I have a new Send Bitcoin button, see the sidebar
 + April 2 2013 | ["Satoshi said: Don't you worry child"](http://www.youtube.com/watch?v=OMAI-OIxLPo) - Zhou Tonged
