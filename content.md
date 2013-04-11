@@ -1,6 +1,3 @@
-evbogue.com
-============
-
 ### Stream
 
 + April 9 2013 | Yo! Gwen Bell's [Git for Publishers](http://git.gwenbell.com/) is out now. Buy it!
