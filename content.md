@@ -1,5 +1,6 @@
 ### Stream
 
++ April 12 2013 | Question answered: [Deploy Node](http://deployno.de/) is deployed using Node
 + April 12 2013 | First Deploy Node sales are coming in! Writing a new chapter on Stylus. Pushed a few commits to [deployno.de](http://deployno.de)
 + April 11 2013 | [Deploy Node](http://deployno.de/) is now available
 + April 11 2013 | I had donuts with [Ross Hill](http://rosshill.com.au) and [Gwen Bell](http://gwenbell.com/)!
