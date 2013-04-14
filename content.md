@@ -15,7 +15,7 @@
 
 ### Deploy Node
 
-<a href="http://deployno.de"><img src="/images/deploy.jpg" width="210px", style="margin-bottom: .5em; border: 1px solid #ccc; background: white; float: left; margin-right: 1em;"></a> [Deploy Node](http://deployno.de), will teach you the technical skills you need to deploy. 
+<a href="http://deployno.de"><img src="/images/deploy.jpg" width="210px" style="margin-bottom: .5em; border: 1px solid #ccc; background: white; float: left; margin-right: 1em;"></a> [Deploy Node](http://deployno.de), will teach you the technical skills you need to deploy. 
 
 When you buy, you'll get access to an ongoing project documenting everything I've learned about deploying Node. I've parsed together a lot of disparate pieces into one coherent whole. You'll benefit from my experiences, experiments, trials and errors.
 
