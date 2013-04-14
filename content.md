@@ -26,4 +26,4 @@ When you buy, you'll get access to an ongoing project documenting everything I'v
 
 ### This site is
 
-Built using Bitters a simple-as-possible Git-based single-page website using [Express](http://expressjs.com/), [Jade](http://jade-lang.com/), [Stylus](http://learnboost.github.io/stylus/), and deployed using [Node.js](http://nodejs.org).
+Built on Bitters, a simple-as-possible Git-based website using [Express](http://expressjs.com/), [Jade](http://jade-lang.com/), [Stylus](http://learnboost.github.io/stylus/), and deployed using [Node.js](http://nodejs.org).
