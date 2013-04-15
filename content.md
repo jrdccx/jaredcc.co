@@ -1,5 +1,7 @@
 ### Stream
 
++ April 15 2013 | Ev Bogue and Gwen Bell's bacon talks: [using Git to avoid becoming part of a botnet](https://soundcloud.com/gwenbell/three-grad-students-walk-into)!
+
 + April 14 2013 | Nice to back on [evbogue.com](http://evbogue.com/) again.
 + April 14 2013 | Breaking News: Node + Bitters is 100% Wordpress free. Suckaz.
 + April 13 2013 | Bitters can do more than one page(s) now. [About](/about) added!
