@@ -1,5 +1,6 @@
 ### Stream
 
++ April 15 2013 | Milk + Cookies + lurking on IRC
 + April 15 2013 | Ev Bogue and Gwen Bell's bacon talks: [using Git to avoid becoming part of a botnet](https://soundcloud.com/gwenbell/three-grad-students-walk-into)!
 + April 14 2013 | Nice to back on [evbogue.com](http://evbogue.com/) again.
 + April 14 2013 | Breaking News: Node + Bitters is 100% Wordpress free. Suckaz.
