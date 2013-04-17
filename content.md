@@ -13,7 +13,7 @@
 
 <a href="http://deployno.de"><img src="/images/deploy.jpg" width="210px" style="margin-bottom: .5em; border: 1px solid #ccc; background: white; float: left; margin-right: 1em;"></a> [Deploy Node](http://deployno.de), will teach you the technical skills you need to deploy. 
 
-When you buy, you'll get access to an ongoing project documenting everything I've learned about deploying Node. I've parsed together a lot of disparate pieces into one coherent whole. You'll benefit from my experiences, experiments, trials and errors.
+When you buy, you'll get access to a comprehensive resource organizing everything I've discovered worth learning about deploying Node.js. [Learn more](http://deployno.de) 
 
 <a href="http://evbogue.fetchapp.com/sell/sfasaixe/ppc"><button class="button">Buy Now | $37</button></a>
 <br />*If you want to pay with Bitcoin, [contact me](mailto:ev@evbogue.com)
