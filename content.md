@@ -17,7 +17,6 @@
 When you buy, you'll get access to a comprehensive resource organizing everything I've discovered worth learning about deploying Node.js. [Learn more](http://deployno.de) 
 
 <a href="http://evbogue.fetchapp.com/sell/sfasaixe/ppc"><button class="button">Buy Now | $37</button></a>
-<br />*If you want to pay with Bitcoin, [contact me](mailto:ev@evbogue.com)
 
 ****
 
