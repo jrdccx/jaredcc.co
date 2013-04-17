@@ -1,10 +1,11 @@
 ### Stream
 
++ April 17 2013 | Eating Japanese food, making money
 + April 15 2013 | Milk + Cookies + lurking on IRC
-+ April 14 2013 | Breaking News: Node + Bitters is 100% Wordpress free. Suckaz.
++ April 14 2013 | Breaking News: Node + Bitters is 100% Wordpress free. Suckaz
 + April 13 2013 | Bitters can do more than one page(s) now. [About](/about) added!
 + April 12 2013 | Question answered: [Deploy Node](http://deployno.de/) is deployed using Node
-+ April 12 2013 | First Deploy Node sales are coming in! Writing a new chapter on Stylus. Pushed a few commits to [deployno.de](http://deployno.de)
++ April 12 2013 | First Deploy Node sales are coming in! Writing a new chapter on StylusPushed a few commits to [deployno.de](http://deployno.de)
 + April 11 2013 | [Deploy Node](http://deployno.de/) is now available
 
 ***
