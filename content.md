@@ -1,5 +1,6 @@
 ### Stream
 
++ April 18 2013 | Rewrote [Deploy Node](http://deployno.de) sales page copy
 + April 17 2013 | Eating Japanese food, making money
 + April 15 2013 | Milk + Cookies + lurking on IRC
 + April 14 2013 | Breaking News: Node + Bitters is 100% Wordpress free. Suckaz
