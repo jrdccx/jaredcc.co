@@ -4,7 +4,7 @@
  */
 
 exports.index = function(req, res){
-  res.render('index', { title: 'Evbogue.com' });
+  res.render('index', { title: 'Evbogue.com | Ev Bogue dot com' });
 };
 
 exports.about = function(req, res){
