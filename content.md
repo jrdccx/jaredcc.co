@@ -1,5 +1,6 @@
 ### Stream
 
++ April 19 2013 | You can now [buy my old shit](/oldshit)
 + April 18 2013 | Rewrote [Deploy Node](http://deployno.de) sales page copy
 + April 17 2013 | Eating Japanese food, making money
 + April 15 2013 | Milk + Cookies + lurking on IRC

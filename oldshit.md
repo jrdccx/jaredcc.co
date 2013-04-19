@@ -9,7 +9,7 @@ Or maybe you never read Augmented Humanity, because it was a little too esoteric
 
 Perhaps you really want to start a Minimalist Business and learn to live and work from anywhere. Even though that ship sailed a long time ago. Even though the strategies I wrote about in 2010 are guaranteed to not work in 2013! You still want to quit your job and try it, even though you'll have to make up your own strategies.
 
-Perhaps you're only just now hearing about how to Untether to Evolve, and now you want to try learning some new verbs to use as you untether from the shit that's holding you back.
+Perhaps you're only just now hearing about how to Untether to Evolve, and now you want to try learning some new verbs to use as you procrastinate about getting that dumpster you never had the guts to rent.
 
 Regardless, you still want my old shit. No matter how much I email you back saying 'please stop asking for my old shit, it's not relevent anymore' you keep wanting it. 
 
