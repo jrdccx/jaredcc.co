@@ -20,8 +20,8 @@ When you buy, you'll get access to a comprehensive resource organizing everythin
 
 <a href="http://evbogue.fetchapp.com/sell/sfasaixe/ppc"><button class="button">Buy Now | $37</button></a>
 
-****
+***
 
 ### This site is
 
-Built on Bitters, a simple-as-possible Git-based website using [Express](http://expressjs.com/), [Jade](http://jade-lang.com/), [Stylus](http://learnboost.github.io/stylus/), and deployed using [Node.js](http://nodejs.org).
+Built on [Bitters](https://github.com/evbogue/bitters), a simple-as-possible Git-based website using [Express](http://expressjs.com/), [Jade](http://jade-lang.com/), [Stylus](http://learnboost.github.io/stylus/), and deployed using [Node.js](http://nodejs.org).
