@@ -4,11 +4,11 @@
  */
 
 exports.index = function(req, res){
-  res.render('index', { title: 'Evbogue.com | Ev Bogue dot com' });
+  res.render('index', { title: 'Evbogue.com | Node.js and Technical Writing deployed by Ev Bogue' });
 };
 
 exports.about = function(req, res){
-  res.render('about', { title: 'About Ev Bogue'});
+  res.render('about', { title: 'About | Ev Bogue'});
 };
 
 exports.oldshit = function(req, res){
