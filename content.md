@@ -1,6 +1,6 @@
 ### Stream
 
-+ April 20 2013 | Deployed [pastebin.evbogue.com](http://pastebin.evbogue.com/) (and now it's borked!)
++ April 20 2013 | Deployed [pastebin.evbogue.com](http://pastebin.evbogue.com/) (seems to be working now!)
 + April 19 2013 | You can now [buy my old shit](/oldshit)
 + April 18 2013 | Rewrote [Deploy Node](http://deployno.de) sales page copy
 + April 17 2013 | Eating Japanese food, making money
