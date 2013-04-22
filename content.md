@@ -1,5 +1,6 @@
 ### Stream
 
++ April 22 2013 | Finally. Sentiment hits: you're an idiot if [you rely on FB](http://andrewchen.co/2013/04/22/why-developers-are-leaving-the-facebook-platform/) or [Google](https://github.com/duncan-bayne/duncan-bayne.github.com/wiki/Expunging-Google).
 + April 21 2013 | Massive edit to [Deploy Node](http://deployno.de)
 + April 20 2013 | Deployed [pastebin.evbogue.com](http://pastebin.evbogue.com/) 
 + April 19 2013 | You can now [buy my old shit](/oldshit)
