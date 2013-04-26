@@ -2,7 +2,6 @@
 
 + April 25 2013 | [The Great Donut](http://hastebin.evbogue.com/jifowufuke.md) by Seth Godin
 + April 25 2013 | Installed [Ubuntu](http://ubuntu.com/) on my Macbook Pro. Dualbooting yo.
-+ April 23 2013 | I need a Linux box to hack on. Got an extra laptop lying around? Send it my way [ev@evbogue.com](mailto:ev@evbogue.com)
 + April 22 2013 | Finally. Sentiment hits: you're an idiot if [you rely on FB](http://andrewchen.co/2013/04/22/why-developers-are-leaving-the-facebook-platform/) or [Google](https://github.com/duncan-bayne/duncan-bayne.github.com/wiki/Expunging-Google).
 + April 21 2013 | Massive edit to [Deploy Node](http://deployno.de)
 + April 20 2013 | Deployed [pastebin.evbogue.com](http://pastebin.evbogue.com/) 
