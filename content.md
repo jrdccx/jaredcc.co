@@ -1,5 +1,6 @@
 ### Stream
 
++ If you can't the heat, get yer ass out the kitchen
 + April 25 2013 | [The Great Donut](http://hastebin.evbogue.com/jifowufuke.md) by Seth Godin
 + April 25 2013 | Installed [Ubuntu](http://ubuntu.com/) on my Macbook Pro. Dualbooting yo.
 + April 22 2013 | Finally. Sentiment hits: you're an idiot if [you rely on FB](http://andrewchen.co/2013/04/22/why-developers-are-leaving-the-facebook-platform/) or [Google](https://github.com/duncan-bayne/duncan-bayne.github.com/wiki/Expunging-Google).
