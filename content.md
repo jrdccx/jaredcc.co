@@ -1,5 +1,6 @@
 ### Stream
 
++ April 28 2013 | Deployed [Hummingbird](http://evbogue.com:8086/) for realtime analytics on Evbogue.com
 + April 27 2013 | Reading [The Arch Way](https://wiki.archlinux.org/index.php/The_Arch_Way)
 + April 26 2013 | If you can't handle the heat, get yer ass out the kitchen
 + April 25 2013 | [The Great Donut](http://hastebin.evbogue.com/jifowufuke.md) by Seth Godin
