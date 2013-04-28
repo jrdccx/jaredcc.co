@@ -8,6 +8,7 @@ html
     link(rel='stylesheet', href='/stylesheets/skeleton.css')
     link(rel='stylesheet', href='/stylesheets/layout.css')
     link(rel='stylesheet', href='/stylesheets/style.css')
+    script(src='/javascripts/hummingbird.js')
 
   body
     .container
@@ -15,3 +16,6 @@ html
         include sidebar.jade
       .ten.columns.offset-by-one
         block content
+
+    script
+      HummingbirdTracker.track();
