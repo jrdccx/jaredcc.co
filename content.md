@@ -1,5 +1,6 @@
 ### Stream
 
++ April 29 2013 | Deployed [Bitters](http://bitters.evbogue.com) using [Bitters](http://bitters.evbogue.com)
 + April 28 2013 | Wrote about [the deep end](/writing)
 + April 28 2013 | Deployed [Hummingbird](http://evbogue.com:8086/) for realtime analytics on Evbogue.com
 + April 27 2013 | Reading [The Arch Way](https://wiki.archlinux.org/index.php/The_Arch_Way)
