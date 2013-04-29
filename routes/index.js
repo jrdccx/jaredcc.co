@@ -14,3 +14,7 @@ exports.about = function(req, res){
 exports.oldshit = function(req, res){
   res.render('oldshit', { title: 'Buy my old Shit | Ev Bogue'});
 };
+
+exports.writing = function(req, res){
+  res.render('writing', { title: 'Writing | Ev Bogue'});
+};
