@@ -11,6 +11,15 @@ html
     script(src='/javascripts/hummingbird.js')
 
   body
+    .container.navbar.navbar-top
+      .ten.columns.offset-by-two
+        ul
+          li 
+            a(href='/') Ev Bogue
+          li 
+            a(href='/about') About
+          li
+            a(href='/writing') Writing
     .container
       .five.columns.sidebar
         include sidebar.jade
