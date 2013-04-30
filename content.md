@@ -1,5 +1,6 @@
 ### Stream
 
++ April 30 2013 | Add section to [Deploy Node](http://deployno.de/) on deploying [Bitters](http://bitters.evbogue.com)
 + April 29 2013 | Deployed [Bitters](http://bitters.evbogue.com) using [Bitters](http://bitters.evbogue.com)
 + April 28 2013 | Wrote about [the deep end](/writing)
 + April 28 2013 | Deployed [Hummingbird](http://evbogue.com:8086/) for realtime analytics on Evbogue.com
