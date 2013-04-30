@@ -26,4 +26,4 @@ Declare indepedence from those who will control your Internet experience, deploy
 
 ### This site is
 
-Built on [Bitters](https://github.com/evbogue/bitters), a simple-as-possible Git-based website using [Express](http://expressjs.com/), [Jade](http://jade-lang.com/), [Stylus](http://learnboost.github.io/stylus/), and deployed using [Node.js](http://nodejs.org).
+Built on [Bitters](http://bitters.evbogue.com/), a simple-as-possible Git-based website using [Express](http://expressjs.com/), [Jade](http://jade-lang.com/), [Stylus](http://learnboost.github.io/stylus/), and deployed using [Node.js](http://nodejs.org).
