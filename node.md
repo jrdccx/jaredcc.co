@@ -11,9 +11,11 @@ I've created a resource called [Deploy Node](http://deployno.de). I created Depl
 
 As I was learning Node, I found the documentation around Node.js to be kind of sparse and scattered. In response, I put all of my collected notes into an easy to read resource to assist you as you learn to deploy Node.
 
+Deploy Node is of course, deployed using Node.
+
 Visit [deployno.de](http://deployno.de) to learn more.
 
-Deploy Node is of course, deployed using Node.
+<a href="http://evbogue.fetchapp.com/sell/sfasaixe/ppc"><button class="button">Buy Now | $37</button></a>
 
 ### Other resources
 
