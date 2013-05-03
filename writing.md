@@ -19,7 +19,7 @@ I keep getting emails (indirectly) from a reader who thinks I'm too close to goi
 
 She mentions I'm from Chicago, he's from Chicago. She mentions I'm into coding, and he was into coding. She mentions we both thought highschool was bullshit, and dropped out after 9th grade. We're both into changing the world. We're both not into taking corporate America tech jobs where we have to suck someone's dick all day long in order to get a pay check. We're both obsessive type A personalities who can only focus on moving the ball down the court.
 
-What she hasn't mentioned is I also share a lot of characteristics with another late hacker, [Ilya Zhitomirskiy](https://en.wikipedia.org/wiki/Ilya_Zhitomirskiy). He's not from Chicago, but he and I both went to NYU. He and I were both into distributed peer to peer social netwokring. I'm still into distributed social.
+What she hasn't mentioned is I also share a lot of characteristics with another late hacker, [Ilya Zhitomirskiy](https://en.wikipedia.org/wiki/Ilya_Zhitomirskiy). He's not from Chicago, but he and I both went to NYU. He and I were both into distributed peer to peer social networking. I'm still into distributed social.
 
 I didn't know Aaron Swartz when he was alive. I'd probably seen him around the Internet, but we'd never had contact. I also didn't know Ilya, but I thought (and still think) distributed soical needs to happen before we have freedom to connect online.
 
