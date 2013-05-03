@@ -12,9 +12,17 @@ exports.about = function(req, res){
 };
 
 exports.oldshit = function(req, res){
-  res.render('oldshit', { title: 'Buy my old Shit | Ev Bogue'});
+  res.render('oldshit', { title: 'Buy my old shit | Ev Bogue'});
 };
 
 exports.writing = function(req, res){
   res.render('writing', { title: 'Writing | Ev Bogue'});
+};
+
+exports.node = function(req, res){
+  res.render('node', { title: 'Node.js | Ev Bogue'});
+};
+
+exports.arch = function(req, res){
+  res.render('arch', { title: 'Arch Linux | Ev Bogue'});
 };
