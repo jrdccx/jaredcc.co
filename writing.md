@@ -16,8 +16,19 @@ Sign up receive emails from me if you want notifications.
 > Why isn't there more support for people doing hard ass work?
 
 I keep getting emails (indirectly) from a reader who thinks I'm too close to going the [Aaron Swartz](https://en.wikipedia.org/wiki/Aaron_Swartz) route. I.E. hanging from a ceiling fan in my Brooklyn apartment. 
+Let me start by writing this: 
 
-She mentions I'm from Chicago, he's from Chicago. She mentions I'm into coding, and he was into coding. She mentions we both thought highschool was bullshit, and dropped out after 9th grade. We're both into changing the world. We're both not into taking corporate America tech jobs where we have to suck someone's dick all day long in order to get a pay check. We're both obsessive type A personalities who can only focus on moving the ball down the court.
+I'm doing really well right now. Last night my roommate gave me a haircut. I eat a Donut at Dough every single day. I had wild, hair-pulling sex up against my bedroom wall yesterday. I live in a city I love. It's spring-time in Brooklyn. Distributed peer to peer social is slowly starting to become a reality. Over the past six months I learned so much about coding I now feel empowered to change the landscape of the Internet in a way I never felt before.
+
+Since I launched [Deploy Node](http://deployno.de), I have financial support for my work again. Mostly from people who understand what it's like to do hard work. These are people who have a willingness to learn technical skills to bring more freedom to how they use the web. 
+
+I'm not making shit tons of cashmoney. But it's enough to pay the rent, eat in, and on occasion even eat a bowl of ramen in Manhattan.
+
+In short: at the present moment, I have no intention of offing myself.
+
+However, I want to speak to this reader. As I think there are more of you out there who fit into her camp. The camp that thinks what I'm doing is crazy, wants me to stop, and doesn't support hard ass work in the world.
+
+This reader mentions I'm from Chicago, Aaron was from Chicago. She mentions I'm into coding, and he was into coding. She mentions we both thought highschool was bullshit, and dropped out after 9th grade. We're both into changing the world. We're both not into taking corporate America tech jobs where we have to suck someone's dick all day long in order to get a pay check. We're both obsessive type A personalities who can only focus on moving the ball down the court.
 
 What she hasn't mentioned is I also share a lot of characteristics with another late hacker, [Ilya Zhitomirskiy](https://en.wikipedia.org/wiki/Ilya_Zhitomirskiy). He's not from Chicago, but he and I both went to NYU. He and I were both into distributed peer to peer social networking. I'm still into distributed social.
 
@@ -47,12 +58,11 @@ Because if you were going up against that you'd probably kill yourself too.
 
 Look. The reason hackers working on impossible projects kill themselves is because you don't support their work.
 
-Yes, you send emails saying 'please don't kill yourself like Aaron'. But you do not send money.
+Yes, you might send emails saying 'please don't kill yourself like Aaron'. But you do not send money.
 
 If you want to support me, [send me money](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QUZZ9H3B3KBNL). [Buy Deploy Node](http://deployno.de). Or find some way to support distributed peer to peer social. Or have the balls to leave F***book or Shitter, or whatever horrible centralized social network is brainwashing you every single day.
 
 But no, don't email saying 'please don't kill yourself'. It doesn't make things easier out here on the edge. 
-
 And no. I won't step back. You need to step up.
 
 ### The Deep End
