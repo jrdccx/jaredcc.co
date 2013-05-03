@@ -5,6 +5,8 @@ I deploy [Node.js](http://nodejs.org).
 
 Evbogue.com is built on [Bitters](http://bitters.evbogue.com/), which is deployed using Node.js.
 
+<a href="http://deployno.de"><img src="/images/deploy.jpg" width="210px" class="profile" style="float: right; margin-left: 1em;"></a>
+
 I've created a resource called [Deploy Node](http://deployno.de). I created Deploy Node because I'm a technical writer, and I get a lot of questions about Node. 
 
 As I was learning Node, I found the documentation around Node.js to be kind of sparse and scattered. In response, I put all of my collected notes into an easy to read resource to assist you as you learn to deploy Node.

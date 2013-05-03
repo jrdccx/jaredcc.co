@@ -3,7 +3,7 @@ Arch Linux
 
 I'm learning to deploy Arch Linux.
 
-Arch Linux is a minimal distribution of Linux focused on simplicty from the development perspective. You install the Linux Kernal, and Pacman the Arch Linux package manager. 
+Arch Linux is a minimal distribution of Linux focused on simplicity from the development perspective. You install the Linux Kernal, and Pacman the Arch Linux package manager. 
 
 Once you've installed Arch Linux, you're free to build your system from the ground up the way you want.
 

@@ -16,7 +16,7 @@
 
 ### Deploy Node
 
-<a href="http://deployno.de"><img src="/images/deploy.jpg" width="210px" style="margin-bottom: .5em; border: 1px solid #ccc; background: white; float: right; margin-left: 1em;"></a> [Deploy Node](http://deployno.de), will teach you the technical skills you need to deploy. 
+<a href="http://deployno.de"><img src="/images/deploy.jpg" width="210px" class="profile" style="float: right; margin-left: 1em;"></a> [Deploy Node](http://deployno.de), will teach you the technical skills you need to deploy. 
 
 Step-by-step, learn how to build your own simple-as-possible realtime website with Node.js, Express, Jade, Stylus.
 
