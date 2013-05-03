@@ -32,7 +32,7 @@ This reader mentions I'm from Chicago, Aaron was from Chicago. She mentions I'm 
 
 What she hasn't mentioned is I also share a lot of characteristics with another late hacker, [Ilya Zhitomirskiy](https://en.wikipedia.org/wiki/Ilya_Zhitomirskiy). He's not from Chicago, but he and I both went to NYU. He and I were both into distributed peer to peer social networking. I'm still into distributed social.
 
-I didn't know Aaron Swartz when he was alive. I'd probably seen him around the Internet, but we'd never had contact. I also didn't know Ilya, but I thought (and still think) distributed soical needs to happen before we have freedom to connect online.
+I didn't know Aaron Swartz when he was alive. I'd probably seen him around the Internet, but we'd never had contact. I also didn't know Ilya, but I thought (and still think) distributed social needs to happen before we have freedom to connect online.
 
 However, when Aaron died, I felt really sad. I was living in a basement at the time. Most of the people in my family were regularly sending me aggressive emails. I had $0 in my bank accounts. Distributed social seemed like a far away dream I would have no impact on creating.
 
