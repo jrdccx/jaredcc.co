@@ -1,5 +1,6 @@
 ### Stream
 
++ May 5 2013 | I'm now [@venportman](http://twitter.com/venportman) on Twittah
 + May 3 2013 | Wrote [about support for hard ass work](/writing)
 + April 30 2013 | Add section to [Deploy Node](http://deployno.de/) on deploying [Bitters](http://bitters.evbogue.com)
 + April 29 2013 | Deployed [Bitters](http://bitters.evbogue.com) using [Bitters](http://bitters.evbogue.com)
