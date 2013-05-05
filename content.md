@@ -4,14 +4,6 @@
 + May 3 2013 | Wrote [about support for hard ass work](/writing)
 + April 30 2013 | Add section to [Deploy Node](http://deployno.de/) on deploying [Bitters](http://bitters.evbogue.com)
 + April 29 2013 | Deployed [Bitters](http://bitters.evbogue.com) using [Bitters](http://bitters.evbogue.com)
-+ April 28 2013 | Wrote about [the deep end](/writing)
-+ April 28 2013 | Deployed [Hummingbird](http://evbogue.com:8086/) for realtime analytics on Evbogue.com
-+ April 27 2013 | Reading [The Arch Way](https://wiki.archlinux.org/index.php/The_Arch_Way)
-+ April 26 2013 | If you can't handle the heat, get yer ass out the kitchen
-+ April 25 2013 | [The Great Donut](http://hastebin.evbogue.com/jifowufuke.md) by Seth Godin
-+ April 25 2013 | Installed [Ubuntu](http://ubuntu.com/) on my Macbook Pro. Dualbooting yo
-+ April 21 2013 | Massive edit to [Deploy Node](http://deployno.de)
-+ April 19 2013 | You can now [buy my old shit](/oldshit)
 
 ***
 

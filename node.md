@@ -17,6 +17,23 @@ Visit [deployno.de](http://deployno.de) to learn more.
 
 <a href="http://evbogue.fetchapp.com/sell/sfasaixe/ppc"><button class="button">Buy Now | $37</button></a>
 
+### Hello World!
+
+Write your first Node.js HTTP server right now. First, Install [Node.js](http://nodejs.org).
+
+Open your favorite text editor. For me, that's [Sublime Text 2](http://www.sublimetext.com/). And type...
+
+	var http = require('http');
+
+	http.createServer(function (req, res) {
+		res.writeHead(200, {'Content-Type': 'text/plain'});
+		res.end('Hello World!');
+		}).listen(3000);
+
+	console.log('Your Node.js server is running at http://localhost:3000/');
+
+Visit [localhost:3000](http://localhost:3000) to see your Node.js server in realtime.
+
 ### Other resources
 
 These are few resources I've enjoyed about Node.js are listed below. These are so good I can recommend them to you.
