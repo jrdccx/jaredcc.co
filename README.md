@@ -1,4 +1,4 @@
-Evbogue.com
+Jaredcc.com
 ===========
 
-This is my website [evbogue.com](http://evbogue.com) built on [Bitters](http://bitters.evbogue.com/)
+This is my website [jaredcc.co](http://jaredcc.co) built on [Bitters](http://bitters.evbogue.com/).
