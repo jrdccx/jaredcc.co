@@ -30,7 +30,7 @@ if ('development' == app.get('env')) {
 }
 
 app.get('/', routes.index);
-app.get('/writing', routes.writing);
+// app.get('/writing', routes.writing);
 app.get('*', routes.index);
 
 
