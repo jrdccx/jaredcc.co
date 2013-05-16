@@ -1,6 +1,8 @@
 ### Stream
 ***
-+ 13.05.10 | Figured out HTTP Routing! (app.js port listen at 3000?)
++ 13.06.16 | Adapting minimal web-access in PT/WA; considering [Karma](https://yourkarma.com/)
++ 13.05.15 | 4.5 stars for The Last Website stars on [Chrome Experiments](https://plus.google.com/+GoogleChromeDevelopers/posts/1knVYZweFoM)
++ 13.05.10 | Figured out HTTP Routing!
 + 13.05.10 | Preparing today, leaving tomorrow 5am; from UT to Port Townesend WA
 + 13.05.09 | Last day at work :)
 + 13.05.09 | Deployed my [Bitters](http://bitters.evbogue.com/) site a la [deployno.de](http://deployno.de)
