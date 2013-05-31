@@ -4,7 +4,7 @@
  */
 
 exports.index = function(req, res){
-  res.render('index', { title: 'Jaredcc.co | Storyteller with an emphasis in writing' });
+  res.render('index', { title: 'Jaredcc.co |  Wordsmith & Information Designer' });
 };
 
 /*

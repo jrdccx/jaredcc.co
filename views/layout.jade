@@ -14,13 +14,10 @@ html
 
   body
     script(type='text/javascript') hljs.initHighlightingOnLoad();
-    .container.navbar.navbar-top
-      .twelve.columns.offset-by-two
-        ul
-          li 
-            a(href='/') JAREDCC
-    .container
-      block content
-
+    .container.center
+      .three.columns.sidebar
+        include sidebar.jade
+      .eight.columns.offset-by-one
+        block content
     script
       HummingbirdTracker.track();
