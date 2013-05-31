@@ -122,7 +122,8 @@
 	img.scale-with-grid {
 		max-width: 100%;
 		height: auto;
-		margin: auto; }
+		margin: 0 auto; 
+		text-align: middle; }
 
 
 /* #Buttons
