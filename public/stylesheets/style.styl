@@ -45,7 +45,7 @@
   font-style italic
 
 body 
-  background #f5f5f5 url('/images/noise.png')
+  background #f5f5f5
   font-family "Source Sans Pro", sans-serif
   color #222
   padding-top 4em
@@ -58,10 +58,11 @@ h1, h2, h3, h4, h5
 p 
   font-size 1em
   font-family "Source Sans Pro", sans-serif
+  max-width 300px
 
 pre 
   border 1px solid #f5f5f5 
-  background #fff url(/images/noise.png) 
+  background #fff url
   font-family "Ubuntu Mono", monospace; margin-bottom: 1em
 
 code 
@@ -69,29 +70,35 @@ code
 
 #profile_img
   margin 0
-  padding 0
-  border-radius 4px
+  border-radius 2px
   border 1px solid #bfbfbf
-  box-shadow 0 2px #bfbfbf
+  box-shadow 0 1px #bfbfbf
+  max-width 100px
+  height auto
+  float right
+  vertical-align text-bottom
 
-.profile 
-  padding 1px
+.profile
+  margin-left 3px
+  display inline-block
+  max-width 300px
 
 .navbar
-  background #313131
+  background #f5f5f5
   width 100%
   position fixed
   z-index 1000
-  padding-top 7px
-  padding-bottom 7px
+  padding-top 9px
+  padding-bottom 9px
+  box-shadow 0 2px #bfbfbf  
 
 .navbar-top
   top 0
-  border-bottom 1px solid #272727
+  border-bottom 1px solid #f5f5f5
 
 .navbar-bottom
   bottom 0
-  border-top 1px solid #272727
+  border-top 1px solid #f5f5f5
 
 .navbar p, .navbar li 
   margin 0
@@ -104,7 +111,10 @@ code
 
 .navbar a 
   text-decoration none
-  color #e0e0e0
+  color #c3c3c3
 
 .navbar a:hover
-  color #f5f5f5
+  color #232323
+
+.markdown
+  max-width 400px

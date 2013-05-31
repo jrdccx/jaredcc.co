@@ -20,10 +20,7 @@ html
           li 
             a(href='/') JAREDCC
     .container
-      .five.columns.sidebar
-        include sidebar.jade
-      .ten.columns.offset-by-one
-        block content
+      block content
 
     script
       HummingbirdTracker.track();
